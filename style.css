@@ -3,7 +3,7 @@
 :root{
     --main-color:#d3ad7f;
     --black:#13131a;
-    --bg:#010103;
+    --bg:#090909d5;
     --border:.1rem solid rgba(255,255,255,.3);
 }
 
@@ -17,7 +17,7 @@
     transition: .2s linear;
 }
 
-html{
+html{ 
     font-size: 62.5%;
     overflow-x: hidden;
     scroll-padding-top: 9rem;
